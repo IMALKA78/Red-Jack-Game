@@ -1,0 +1,38 @@
+body{
+    background-image: url(p/SL-030722-49030-02.jpg);
+    background-size: cover;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+#main-btm,#restart{
+    font-size: 35px;
+    cursor: pointer;
+    padding: 16px 30px;
+    border-radius: 12px;
+    margin-left: 15%;
+}
+
+h3{
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#main-result{
+    border: white 4px solid;
+}
+
+#restart{
+    display: none;
+    margin-top: 20px;
+
+}
